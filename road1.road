@@ -1,0 +1,26 @@
+--- Layers (Drawn bottom-up) ---
+
+format: layer_type,color,offset1,elevation1,offset2,elevation2,...
+
+Terrain MUST be one continuous polygon
+
+TERRAIN,green,-50,-2.5,-20,-2.0,0,-1.5,20,-1.7,50,-2.2, 50,-5, -50,-5
+
+Subbase. The first and last points are the "catch points"
+
+where the new road meets the terrain.
+
+SUBBASE,sandybrown,-20,-2.0, -6,-1.5, 6,-1.5, 20,-1.7
+
+Base layer
+
+BASE,dimgray,-5.5,-1.0, 5.5,-1.0, 5.5,-0.5, -5.5,-0.5
+
+Asphalt. The first and last points are the "edge of pavement".
+
+ASPHALT,black,-5,0, 5,0, 5,-0.5, -5,-0.5
+
+Shoulder. Optional, but good for labeling.
+
+SHOULDER,darkgray, 5,0, 6,-0.5, 5,-0.5
+SHOULDER,darkgray,-5,0,-6,-0.5,-5,-0.5
