@@ -5,12 +5,12 @@ Tools: Python + Canvas
 
 Description: This program converts a custom .road file into visuals with colours, annotations and dimensions.
 
-Team Members (All from CSE-E)
+Team Members (All from CSE-E):
 
-Saanvi Changti- RVCE25BCS047 
+1. Saanvi Changti- RVCE25BCS047 
 
-Saanvi Sudhindra- RVCE25BCS130
+2. Saanvi Sudhindra- RVCE25BCS130
 
-Sanvi RB- RVCE25BCS046
+3. Sanvi RB- RVCE25BCS046
 
-Sahana Krishnamani- RVCE25BCS302
+4. Sahana Krishnamani- RVCE25BCS302
